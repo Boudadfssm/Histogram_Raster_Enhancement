@@ -1,0 +1,24 @@
+[general]
+name=Spectral Raster Enhancement
+qgisMinimumVersion=3.0
+description=Spectral Enhancement and Histogram Adjustment for Raster Layers (Single and Multi-band)
+
+version=0.3
+author=B.Boudad
+email=brahimbd@gmail.com
+
+about=This plugin provides tools for Linear Stretch, Histogram Equalization, and Gamma Correction on raster images. Supports both single-band and multi-band rasters.
+
+tracker=https://github.com/Boudadfssm/Histogram_Raster_Enhancement
+repository=https://github.com/Boudadfssm/Histogram_Raster_Enhancement
+
+hasProcessingProvider=yes
+homepage=https://github.com/Boudadfssm
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
+
+server=False
+
+tags=raster,enhancement,histogram,gamma,remote sensing,multispectral
